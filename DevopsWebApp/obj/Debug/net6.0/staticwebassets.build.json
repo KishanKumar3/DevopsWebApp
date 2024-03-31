@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ad/4YGrQvKIu1E0DClEQnEbD+gvyb7+2iY4wfT8ufWA=",
+  "Source": "DevopsWebApp",
+  "BasePath": "_content/DevopsWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\DevopsWebApp.exe
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\DevopsWebApp.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\DevopsWebApp.deps.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\DevopsWebApp.runtimeconfig.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\DevopsWebApp.pdb
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\DevopsWebApp\DevopsWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

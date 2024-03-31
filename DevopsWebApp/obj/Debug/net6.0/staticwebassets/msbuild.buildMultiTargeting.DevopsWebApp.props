@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevopsWebApp.props" />
+</Project>
