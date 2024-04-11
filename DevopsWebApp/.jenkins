@@ -1,0 +1,29 @@
+pipeline {
+    agent any
+    environment {
+        dotnet = '/snap/dotnet-sdk/239/sdk'
+    }
+    stages {
+        stage('Checkout Stage') {
+            steps {
+                git credentialsId: 'git', url: 'https://github.com/KishanKumar3/DevopsWebApp.git', branch: 'main'
+            }
+        }
+        stage('Build Stage') {
+            steps {
+                sh 'dotnet restore'
+                sh 'dotnet build --configuration Release'
+            }
+        }
+        stage('Test Stage') {
+            steps {
+                sh 'dotnet test ${WORKSPACE}/TestProject1/TestProject1.csproj'
+            }
+        }
+    }
+    post {
+        success {
+            echo 'Build and test successful!'
+        }
+    }
+}
